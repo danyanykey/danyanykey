@@ -15,12 +15,6 @@
 
 ---
 
-### $ whoami
-
-I'm Dany — currently working in IT support and exploring the world of infrastructure, automation, and site reliability engineering.
-
-I like figuring out how systems communicate, why things break, and which repetitive tasks can become automation. I also enjoy vibe coding: turning ideas into small projects with AI along for the ride.
-
 ### Current quest
 
 **From fixing everyday IT problems to understanding and building reliable systems.**
