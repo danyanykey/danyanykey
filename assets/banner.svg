@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">danyanykey</title>
+  <desc id="desc">From IT support to reliable infrastructure. Infrastructure, automation, and side quests.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#101b28"/><stop offset="1" stop-color="#090e16"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#243447" stroke-width="0.6"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="20" fill="url(#grid)" opacity="0.32"/>
+  <rect x="1" y="1" width="1198" height="338" rx="19" fill="none" stroke="#26384a"/>
+  <g font-family="Consolas, 'Liberation Mono', monospace">
+    <circle cx="46" cy="34" r="5" fill="#fb7185"/>
+    <circle cx="64" cy="34" r="5" fill="#fbbf24"/>
+    <circle cx="82" cy="34" r="5" fill="#6ee7b7"/>
+    <text x="108" y="39" font-size="13" fill="#7e91a8">profile / danyanykey</text>
+    <path d="M32 58H1168" stroke="#26384a"/>
+    <text x="48" y="105" font-size="15" fill="#6ee7b7">$ cat about.me</text>
+    <text x="45" y="169" font-size="53" font-weight="700" fill="#edf4fc">danyanykey<tspan fill="#6ee7b7">_</tspan></text>
+    <text x="48" y="210" font-size="21" fill="#afc0d2">From IT support to reliable infrastructure.</text>
+    <text x="48" y="284" font-size="13" letter-spacing="2" fill="#6ee7b7">INFRASTRUCTURE / AUTOMATION / SIDE QUESTS</text>
+  </g>
+  <g fill="none" stroke="#3b6070" stroke-width="1.5">
+    <path d="M920 104L1038 145L948 239L1105 250M1038 145L1105 250M920 104L948 239"/>
+    <rect x="887" y="81" width="66" height="46" rx="8" fill="#121f2d"/>
+    <rect x="1005" y="122" width="66" height="46" rx="8" fill="#121f2d"/>
+    <rect x="915" y="216" width="66" height="46" rx="8" fill="#121f2d"/>
+    <rect x="1072" y="227" width="66" height="46" rx="8" fill="#121f2d"/>
+  </g>
+  <g fill="#6ee7b7">
+    <circle cx="920" cy="104" r="4"/><circle cx="1038" cy="145" r="4"/>
+    <circle cx="948" cy="239" r="4"/><circle cx="1105" cy="250" r="4"/>
+  </g>
+</svg>
