@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Infrastructure curious. Automation minded. Gamer at heart.</strong>
+  <strong>Trying to be better</strong>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ### $ whoami
 
-I'm Danya — currently working in IT support and exploring the world of infrastructure, automation, and site reliability engineering.
+I'm Dany — currently working in IT support and exploring the world of infrastructure, automation, and site reliability engineering.
 
 I like figuring out how systems communicate, why things break, and which repetitive tasks can become automation. I also enjoy vibe coding: turning ideas into small projects with AI along for the ride.
 
@@ -49,7 +49,7 @@ The technologies and ideas I'm interested in exploring:
 
 ### Side quests
 
-When I'm away from IT, you'll probably find me in **World of Warcraft**, playing **Dota 2**, or getting lost in a single-player game. I also follow the gaming industry and enjoy seeing where games and technology are headed.
+When I'm away from IT, you'll probably find me in **World of Warcraft** or getting lost in a single-player game. I also follow the gaming industry and enjoy seeing where games and technology are headed.
 
 ---
 
