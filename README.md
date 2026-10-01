@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="danyanykey — From IT support to reliable infrastructure" width="100%" />
+  <img src="assets/banner.svg" alt="danyanykey — Infrastructure and side quests" width="100%" />
 </p>
 
 <p align="center">

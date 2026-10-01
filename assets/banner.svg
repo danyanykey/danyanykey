@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
   <title id="title">danyanykey</title>
-  <desc id="desc">From IT support to reliable infrastructure. Infrastructure, automation, and side quests.</desc>
+  <desc id="desc">Infrastructure and side quests.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop stop-color="#101b28"/><stop offset="1" stop-color="#090e16"/>
@@ -20,8 +20,7 @@
     <path d="M32 58H1168" stroke="#26384a"/>
     <text x="48" y="105" font-size="15" fill="#6ee7b7">$ cat about.me</text>
     <text x="45" y="169" font-size="53" font-weight="700" fill="#edf4fc">danyanykey<tspan fill="#6ee7b7">_</tspan></text>
-    <text x="48" y="210" font-size="21" fill="#afc0d2">From IT support to reliable infrastructure.</text>
-    <text x="48" y="284" font-size="13" letter-spacing="2" fill="#6ee7b7">INFRASTRUCTURE / AUTOMATION / SIDE QUESTS</text>
+    <text x="48" y="284" font-size="13" letter-spacing="2" fill="#6ee7b7">INFRASTRUCTURE / SIDE QUESTS</text>
   </g>
   <g fill="none" stroke="#3b6070" stroke-width="1.5">
     <path d="M920 104L1038 145L948 239L1105 250M1038 145L1105 250M920 104L948 239"/>
